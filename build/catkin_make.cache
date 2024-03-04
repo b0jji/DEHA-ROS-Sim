@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/berke/deha/devel -DCMAKE_INSTALL_PREFIX=/home/berke/deha/install -G Unix Makefiles

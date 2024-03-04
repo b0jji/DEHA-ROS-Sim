@@ -1,0 +1,1 @@
+roslaunch vrx_gazebo sydneyregatta.launch world:=`pwd`/Final
